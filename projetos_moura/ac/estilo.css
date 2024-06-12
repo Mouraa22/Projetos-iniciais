@@ -1,0 +1,55 @@
+#secao1{
+    text-align: center;
+    font-size: 30px;
+}
+#imagem1{
+    float: right;
+    border: 2px solid blue;
+}
+#secao2{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+#parag1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    text-align: justify;
+}
+#parag2{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: justify;
+}
+.secao3{
+    display: grid;
+    grid-template-rows: auto auto auto auto;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+}
+#titulo3{
+    grid-row: 1;
+    grid-column: 1 ;
+}
+nav {
+    grid-row: 2;
+    grid-column: 1;
+}
+aside {
+    grid-row: 3;
+    grid-column: 1;
+}
+
+main {
+    grid-row: 3;
+    grid-column: 1;
+}
+footer{
+    grid-row: 4;
+    grid-column: 1 ;
+}
+
+
+
+

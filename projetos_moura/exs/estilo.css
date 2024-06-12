@@ -1,0 +1,25 @@
+h1{
+    color: #ff0000;
+    background-color: black;
+}
+p{
+    color:rgb(99, 99, 71);
+}
+/* comentario quando é id é #*/
+#especial{
+    color: hsl(84, 100%, 50%);
+}
+/* quando é classe é .*/
+.especial2{
+    text-align: center;
+}
+body{
+    /*background-color: bisque;*/
+    background-image: url("ganley.jpg");
+    /*não repetir*/
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-attachment: scroll;
+
+}
+/*Borda*/

@@ -1,0 +1,28 @@
+#p1{
+    /*fonte familia*/
+    font-family: 'Lucida Sans ', 'Lucida Sans Regular', 'Lucida Grande, ',  'Lucida Sans Unicode', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 'Courier New',  Courier, monospace;
+     /*tamanho da fonte*/
+    font-size: 10pt;
+     /*espessura da fonte*/
+     font-weight: bolder;
+      /*italico ou não*/
+      font-style: italic;
+       /*sublinhado*/
+       text-decoration: underline;
+        /*maiusculas e minusculas*/
+        text-transform: uppercase;
+
+}
+h1{
+     /*sombra*/
+    text-shadow: 2px 2px red;
+    font-family: "Roboto Slab";
+    }
+#p2{
+    /*alinhamento de texto*/
+    text-align: center;
+    /*inicio paragrafo*/
+    text-indent: 10px;
+    /*altura linha*/
+    line-height: 50px;
+}
